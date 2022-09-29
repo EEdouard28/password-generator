@@ -13,5 +13,4 @@ Data is collected, and a random password will be generated inside the text area.
 
 ## Test
 1. Visit site at 
-2. Make sure all navigation links are functional.
-3. Make sure webpage is asscesible on mobile, tablet, and desktop devices.
+2. Click generate button, answer prompt questions, and test if password is generated 

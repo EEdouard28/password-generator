@@ -1,4 +1,4 @@
-# password-generator By Evince Edouard
+# Password-Generator By Evince Edouard
 
 ## Descriptions
 This application generates a random, secure password for the user.

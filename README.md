@@ -1,4 +1,4 @@
-# Password Generator powered by JavaScript
+# Password Generator by JavaScript
 
 ## Descriptions
 The Password Generator is an application designed to generate random and secure passwords for users. With the increasing need for strong passwords to protect online accounts, this tool offers a convenient solution to create unique and hard-to-guess passwords.

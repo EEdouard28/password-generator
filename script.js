@@ -16,11 +16,11 @@ function generatePassword() {
   var finalPassword = []
 
 //Users are being asked questions to create password
-var passwordLength = prompt("how long would you like your password? Must be between 8-128 characters")
-var numbers = confirm("Would you like numbers in your password?")
-var lowercase = confirm("Would you like numbers in your lowercase characters?")
-var uppercase = confirm("Would you like numbers in your uppercase characters?")
-var specialChars = confirm("Would you like numbers in your special characters?")
+var passwordLength = prompt("How long would you like your password? Must be between 8-128 characters")
+var numbers = confirm("Would you like numbers in your password? Click OK for Yes or Cancel for No")
+var lowercase = confirm("Would you like numbers in your lowercase characters? Click OK for Yes or Cancel for No")
+var uppercase = confirm("Would you like numbers in your uppercase characters? Click OK for Yes or Cancel for No")
+var specialChars = confirm("Would you like numbers in your special characters? Click OK for Yes or Cancel for No")
 
 
 //After user answers questions character bucket retrieves characters for password to be generated
